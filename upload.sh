@@ -2,5 +2,11 @@
 
 cd "$(dirname "$0")"
 git add .
-git commit -m "$(read -p "Commit message: " -r && echo $REPLY)"
+msg="$(read -p "Commit message: " -r && echo $REPLY)"
+if [[ -z $msg  ]]; then
+  commit_msg="$(date +"%d.%m.%y %R")"
+else
+  commit_msg="$msg"
+fi
+git commit -m "$commit_msg"
 git push -u origin main
