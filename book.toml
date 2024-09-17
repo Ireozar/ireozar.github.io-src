@@ -1,0 +1,6 @@
+[book]
+authors = ["Ireozar"]
+language = "de"
+multilingual = false
+src = "src"
+title = "Welt-Wiki"
