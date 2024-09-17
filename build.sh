@@ -6,6 +6,8 @@ if [ ! -d ../wiki_pages/.git ]; then
   echo
   if [[ $REPLY =~ ^[Yy]$ ]]; then
     git clone https://github.com/ireozar/ireozar.github.io.git ../wiki_pages
+  else
+    exit 1
   fi
 fi
 mdbook build
