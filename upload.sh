@@ -1,4 +1,6 @@
 #!/bin/sh
 
 cd "$(dirname "$0")"
-pwd
+git add .
+git commit -m "$(read -p "Commit message: " -r && echo $REPLY)"
+git push -u origin main
