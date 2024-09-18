@@ -10,7 +10,7 @@ if [ ! -d ../wiki_pages/.git ]; then
     exit 1
   fi
 fi
-mdbook build
+../../mdbook build
 mv ../wiki_pages/.git git_files/.git
 rm -rf ../wiki_pages/*
 mv book/* ../wiki_pages/.
