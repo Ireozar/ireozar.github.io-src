@@ -1,4 +1,4 @@
-#!/bin/sh
+#!/bin/bash
 
 cd "$(dirname "$0")"
 if [ ! -d ../wiki_pages/.git ]; then
