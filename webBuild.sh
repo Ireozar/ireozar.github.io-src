@@ -13,4 +13,3 @@ cd ../wiki_pages
 git add .
 commit_msg="$(date +"%d.%m.%y %R") (script commit)"
 git commit -m "$commit_msg"
-./../wiki/webPush.sh
