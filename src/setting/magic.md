@@ -23,7 +23,7 @@
 
 ## Kontrolle
 - Beseitigung bei übermäßiger Stärke, Magie-/Energie-Kristalle dadurch angetrieben
-  - Ausbildung durch bunte Magier
+  - Ausbildung durch andere Magier
 - Kunibert der Feuermagier
 
 
