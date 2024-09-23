@@ -24,7 +24,7 @@
 
 ## Kontrolle
 - Beseitigung bei übermäßiger Stärke, Magie-/Energie-Kristalle dadurch angetrieben
-- Kunibert der Feuermagier
+- Kunnibert der Allerechte (im Vulkan zum bunten Magier geworden, legendär)
 
 
 
