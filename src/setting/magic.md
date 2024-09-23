@@ -26,6 +26,9 @@
 - Beseitigung bei übermäßiger Stärke, Magie-/Energie-Kristalle dadurch angetrieben
 - Kunibert der Allerechte (im Vulkan zum bunten Magier geworden, legendär)
 
+## Training
+- mit fortwährender Nutzung von Magie steigen die Fähigkeiten, gemeinsam mit Verwandlung
+
 
 
 
