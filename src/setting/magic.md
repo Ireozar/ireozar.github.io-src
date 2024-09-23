@@ -12,3 +12,7 @@
 
 ## Potenz
 - abhängig von Zusammenspiel aus Situation/Emotionen und Typ der Magie (viele verschiedene erwünscht)
+
+## Häufigkeit/Zugänglichkeit
+- ~0,01% magisch
+- generelle Angst vor Magie in der Bevölkerung
