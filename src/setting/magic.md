@@ -16,3 +16,11 @@
 ## Häufigkeit/Zugänglichkeit
 - ~0,01% magisch
 - generelle Angst vor Magie in der Bevölkerung
+
+## Respekt
+- Adlige haben persönliche Magier
+- Kontrolle der Stärke
+
+## Kontrolle
+- Beseitigung bei übermäßiger Stärke, Magie-/Energie-Kristalle dadurch angetrieben
+- Kunibert der Feuermagier
