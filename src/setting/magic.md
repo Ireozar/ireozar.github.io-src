@@ -20,7 +20,7 @@
 ## Respekt
 - Adlige haben persönliche Magier
 - Kontrolle der Stärke
-- Ausbildung durch nicht-Magier
+- Ausbildung durch nicht-Magier ("Philosophen")
 
 ## Kontrolle
 - Beseitigung bei übermäßiger Stärke, Magie-/Energie-Kristalle dadurch angetrieben
