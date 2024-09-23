@@ -30,7 +30,6 @@
 - mit fortwährender Nutzung von Magie steigen die Fähigkeiten, gemeinsam mit Verwandlung
 - technische Verbesserung durch Theorie möglich, praktische nur durch Anwendung
 - Spezialisierung existiert
-- (Begabung abhängig von Genen)
 
 
 
