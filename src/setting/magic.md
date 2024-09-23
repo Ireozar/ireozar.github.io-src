@@ -20,10 +20,10 @@
 ## Respekt
 - Adlige haben persönliche Magier
 - Kontrolle der Stärke
+- Ausbildung durch andere Magier
 
 ## Kontrolle
 - Beseitigung bei übermäßiger Stärke, Magie-/Energie-Kristalle dadurch angetrieben
-  - Ausbildung durch andere Magier
 - Kunibert der Feuermagier
 
 
