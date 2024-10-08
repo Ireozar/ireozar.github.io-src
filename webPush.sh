@@ -2,5 +2,5 @@
 
 cd "$(dirname "$0")"
 git push
-cd ../wiki_pages
+cd ../../../wiki
 git push
