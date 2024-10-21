@@ -1,4 +1,4 @@
-# Verteilung
+# Herrschaft
 
 - Machthaber leben auf zentralem Planeten
 - überstehende Kontrolle durch Oberherrscher
@@ -6,4 +6,5 @@
   - geheim gehalten
   - OH gottgleich verehrt
 
-# C&A
+# Häuser
+## 
