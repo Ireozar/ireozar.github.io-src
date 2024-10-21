@@ -5,5 +5,6 @@
 - [Sci-Fi](setting/sci-fi.md)
 - [Fantasy](setting/fantasy.md)
 - [Magic](setting/magic.md)
+- [Adelshäuser](setting/houses.md)
 
 [Notizen](notes.md)
